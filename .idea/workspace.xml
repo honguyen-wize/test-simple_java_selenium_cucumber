@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b9141a-a71a-42ef-a62e-d153efbcacc4" name="Default Changelist" comment="" />
+    <list default="true" id="b5b9141a-a71a-42ef-a62e-d153efbcacc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ApiKeyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/TrueHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui_viewmodel/DaraBaseShelfUi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui_viewmodel/DaraDataUi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui_viewmodel/DaraShelfItemUi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/Common.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/WSCommon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ws_model/DaraBaseShelfWs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ws_model/DaraDataWs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ws_model/DaraShelfItemWs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumerReport/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumerReport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumerReport/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumerReport/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumerReport/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/env_preprod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/env_production.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/ApiPageStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/HomePageStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/LoginStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/TrueHomePageStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/base/BaseStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/base/CommonStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefs/base/Utils.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,6 +290,10 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="221" y="76" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1602582569688" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1602582947409">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1602582947409" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
