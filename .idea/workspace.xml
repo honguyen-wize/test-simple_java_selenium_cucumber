@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5b9141a-a71a-42ef-a62e-d153efbcacc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo_java_cucumber" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>goToAPIKeyPage</find>
+      <find>linkApiMemu</find>
+      <find>//div[@class='panel-body']</find>
+      <find>startDriver</find>
+      <find>resourceBundle</find>
+      <find>I enter user name</find>
+      <find>Users login successfully</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectId" id="1iomFxFbrkP8lAKhAulsDKCqR2R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576144056555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runner" />
+      <recent name="stepdefs" />
+      <recent name="Runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/test-simple_java_selenium_cucumber-github/testNG.xml">
+    <configuration name="TestRunner (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="simple_java_cucumber_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/honguyenwizetest-simple_java_selenium_cucumber-810302c64e56/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="honguyenwizetest-simple_java_selenium_cucumber-810302c64e56" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/test-simple_java_selenium_cucumber-github/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-simple_java_selenium_cucumber-github" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/src/test/resources/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="simple_java_cucumber_demo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="simple_java_cucumber_demo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestRunner (1)" />
+      <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/src/test/resources/testNG.xml" />
+      <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/testNG.xml" />
+      <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/honguyenwizetest-simple_java_selenium_cucumber-810302c64e56/testNG.xml" />
+      <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/test-simple_java_selenium_cucumber-github/testNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/test-simple_java_selenium_cucumber-github/testNG.xml" />
+        <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/automation/selenium/gitHub/honguyenwizetest-simple_java_selenium_cucumber-810302c64e56/testNG.xml" />
+        <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/testNG.xml" />
+        <item itemvalue="TestNG.TestRunner (1)" />
+        <item itemvalue="TestNG./Users/ho.nguyen/Documents/Projects/true_beta/automation/simple_java_cucumber_demo/src/test/resources/testNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b9141a-a71a-42ef-a62e-d153efbcacc4" name="Default Changelist" comment="" />
+      <created>1575364402041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575364402041</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add REAME and chromedriver">
+      <created>1575434235322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575434235322</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add REAME and chromedriver">
+      <created>1575434337571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575434337571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add REAME and chromedriver">
+      <created>1575434406484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575434406484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update README">
+      <created>1575434623632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575434623632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add BasePage, BaseStepDef and test cases for API Key page">
+      <created>1575457413238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575457413238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Tear down step and DataTable example">
+      <created>1576060763436</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576060763436</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add REAME and chromedriver" />
+    <MESSAGE value="update README" />
+    <MESSAGE value="Add BasePage, BaseStepDef and test cases for API Key page" />
+    <MESSAGE value="Add Tear down step and DataTable example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tear down step and DataTable example" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="344" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602582291868">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="569" y="344" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.829@0.23.1440.829" timestamp="1602582291868" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1602582653486">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1602582653486" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1602582653485">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1602582653485" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1602582653485">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1602582653485" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1602582653486">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1602582653486" />
+    <state x="221" y="76" key="SettingsEditor" timestamp="1602582569688">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="221" y="76" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1602582569688" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/HomePage.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefs/base/Utils.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefs/base/Utils.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="expectedMenuItems" />
+        <watch expression="el.getText()" />
+        <watch expression="actualListOfMenu" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

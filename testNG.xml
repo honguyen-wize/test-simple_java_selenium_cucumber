@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automated test">
+    <test name="Test Features on Production-Chrome">
+        <parameter name = "env" value="production"/>
+        <parameter name = "browserName" value="chrome"/>
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+
+    <!--<test name="Test Features on Production-FireFox">-->
+        <!--<parameter name = "env" value="production"/>-->
+        <!--<parameter name = "browserName" value="firefox"/>-->
+        <!--<classes>-->
+            <!--<class name="runner.TestRunner"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="Test Features on PreProd-Chrome">-->
+        <!--<parameter name = "env" value="preprod"/>-->
+        <!--<parameter name = "browserName" value="chrome"/>-->
+        <!--<classes>-->
+            <!--<class name="runner.TestRunner"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="Test Features on preprod-FireFox">-->
+        <!--<parameter name = "env" value="preprod"/>-->
+        <!--<parameter name = "browserName" value="firefox"/>-->
+        <!--<classes>-->
+            <!--<class name="runner.TestRunner"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+</suite>
