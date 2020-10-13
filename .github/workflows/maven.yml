@@ -29,5 +29,13 @@ jobs:
       with:
         java-version: 1.8
         run: mvn compile
-        
+  test:
+    runs-on: ubuntu-latest
+    needs: [build]
+    steps:
+    - name: test
+      uses: actions/checkout@v2
+      with:
+        java-version: 1.8
+        run: mvn clean test
     
