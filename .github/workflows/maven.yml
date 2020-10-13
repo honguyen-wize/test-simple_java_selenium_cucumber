@@ -24,10 +24,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: [clean]
     steps:
-    - uses: actions/checkout@v2
+    - name: compile
+      uses: actions/checkout@v2
       with:
         java-version: 1.8
-    - name: compile
-    - run: mvn install
+        run: mvn compile
         
     
