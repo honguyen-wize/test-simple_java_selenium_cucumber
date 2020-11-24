@@ -15,3 +15,4 @@
  - If you use Windows, go to test/resources/config.properties and enable the #Driver for Windows#. For MacOs, do not change anything.
  - Run TestRunner from test/runner/TestRunner
  - After running, the report is available in target/cucumberReport
+ ** Test
